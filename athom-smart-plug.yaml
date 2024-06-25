@@ -34,7 +34,7 @@ preferences:
 api:
 
 ota:
-  platform: esphome
+  - platform: esphome
 
 logger:
   baud_rate: 0
